@@ -1,0 +1,7 @@
+django
+django-extensions
+djangorestframework
+django-filter
+markdown
+ipdb
+requests
